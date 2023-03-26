@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sahilhedau49.github.io/todo-list-sample",
-  "name": "todo-list-sample",
+  "homepage": "https://sahilhedau49.github.io/todo-list",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
